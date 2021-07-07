@@ -4,9 +4,9 @@
   "creator": "Jeppe Staerk",
   "defaultIcon": "icon.png",
   "description": "Foreign exchange rates and currency conversion",
-  "name": "arvis-currency-converter",
+  "name": "arvis-currency-conversion",
   "readme": "# arvis-currency-conversion\n> Arvis Workflow - See foreign exchange rates and currency conversion\n\n## Usage\nIn arvis, type `curcon`, ⏎, and your amount.\n\n## Highlights\n- Set your own base currency (default `EUR`)\n- Currencies: `AUD`, `BGN`, `BRL`, `CAD`, `CHF`, `CNY`, `CZK`, `DKK`, `EUR`, `GBP`, `HKD`, `HRK`, `HUF`, `IDR`, `ILS`, `INR`, `ISK`, `JPY`, `KRW`, `MXN`, `MYR`, `NOK`, `NZD`, `PHP`, `PLN`, `RON`, `RUB`, `SEK`, `SGD`, `THB`, `TRY`, `USD`, and `ZAR`\n- Auto update rates at 4PM CET on working days\n- Input support locale numbers\n- Input support for $ (`USD`), € (`EUR`), £ (`GBP`), and ¥ (`JPY`)\n- Outputs dates and numbers in locale\n\n## Contributions:\nPlease feel free to create a PR and/or make a code review!\n[GitHub Repository](https://github.com/jeppestaerk/arvis-currency-conversion)\n\n## License\nMIT © [Jeppe Stærk](https://staerk.io)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "webAddress": "https://github.com/jopemachine/arvis-currency-conversion#readme",
   "enabled": true,
   "commands": [
