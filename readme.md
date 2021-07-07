@@ -2,7 +2,7 @@
 
 > arvis workflow - See foreign exchange rates and currency conversion
 
-<img src="https://raw.githubusercontent.com/jeppestaerk/arvis-currency-conversion/master/preview.gif">
+<img src="https://raw.githubusercontent.com/jopemachine/arvis-currency-conversion/master/preview.gif">
 
 
 ## Install
@@ -11,7 +11,7 @@ Use `npm`
 ```
 $ npm install --global arvis-currency-conversion
 ```
-or download `arvisworkflow` file from [releases](https://github.com/jeppestaerk/arvis-currency-conversion/releases/latest)
+or download `arvisworkflow` file from [releases](https://github.com/jopemachine/arvis-currency-conversion/releases/latest)
 
 *Requires [Node.js](https://nodejs.org) 8+ and the arvis [Powerpack](https://www.arvisapp.com/powerpack/).*
 
@@ -36,9 +36,16 @@ In arvis, type `curcon`, <kbd>⏎</kbd>, and your amount.
 Please feel free to create a PR and/or make a code review!
 
 
+## 🔗 This workflow is converted from [alfred-workflow](https://github.com/jeppestaerk/alfred-currency-conversion).
+
+* Note that there might be some code change or different actions from the original workflow.
+
+* Marked original workflow's creator to author.
+
+
 ## License
 
 MIT © [Jeppe Stærk](https://staerk.io)
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/jeppestaerk/arvis-currency-conversion/master/icon.png" width="64" ></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jopemachine/arvis-currency-conversion/master/icon.png" width="64" ></p>
