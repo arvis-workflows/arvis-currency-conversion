@@ -1,0 +1,39 @@
+{
+  "name": "arvis-currency-conversion",
+  "version": "0.0.3",
+  "description": "Arvis Workflow - See foreign exchange rates and currency conversion",
+  "license": "MIT",
+  "author": {
+    "name": "Jeppe Stærk",
+    "email": "dev@staerk.io"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "postinstall": "arvish-init",
+    "preuninstall": "arvish-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "arvis-workflow.json",
+    "settings.png",
+    "flags/*.png"
+  ],
+  "keywords": [
+    "arvis",
+    "arvis4",
+    "workflow",
+    "arvis-workflow",
+    "arvis4-workflow",
+    "arvish",
+    "currency-conversion",
+    "foreign-exchange-rates"
+  ],
+  "dependencies": {
+    "arvish": ">=0.4.6",
+    "os-locale": "^5.0.0"
+  },
+  "devDependencies": {}
+}
